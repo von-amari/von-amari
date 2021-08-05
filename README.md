@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @von-amari
 - 🌱 I’m currently learning Java and Web Application development
-
+- <a href="http://myamari.com/" target="_blank">Web Portfolio</a>
 
 <!---
 von-amari/von-amari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
