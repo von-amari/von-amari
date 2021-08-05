@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @von-amari
-- 🌱 I’m currently learning Java and Web Application development
+- 🌱 I’m currently learning python
 - <a href="http://myamari.com/" target="_blank">Web Portfolio</a>
 
 <!---
